@@ -27,6 +27,12 @@ html, body {
   font-size: 7.5vw;
   line-height: 7vw;
   text-align: center;
+  color: #525253;
+  transition: background-image 0.5s ease;
+}
+
+#corner-bubble:hover {
+  background-image: url("assets/corner-bubble-hover.png");
 }
 
 @media (min-width: 850px) {
