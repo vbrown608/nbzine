@@ -42,3 +42,14 @@ html, body {
     line-height: 60px;
   }
 }
+
+#pages {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+#pages img {
+  width: 100%;
+  margin-bottom: 55px;
+}
