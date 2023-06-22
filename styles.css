@@ -28,3 +28,17 @@ html, body {
   line-height: 7vw;
   text-align: center;
 }
+
+@media (min-width: 850px) {
+  .wrap {
+    width: 325px;
+    height: 169px;
+    padding: 0;
+  }
+
+  #corner-bubble {
+    padding: 50px 0 0 57px;
+    font-size: 64px;
+    line-height: 60px;
+  }
+}
