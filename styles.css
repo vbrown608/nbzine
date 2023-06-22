@@ -16,7 +16,7 @@ html, body {
   position: absolute;
   background-size: cover;
   background-image: url("assets/corner-bubble.png");
-  padding: 25px 0 0 35px;
+  padding: 14% 0 0 15%;
 
   top: 0;
   bottom: 0;
@@ -24,7 +24,7 @@ html, body {
   right: 0;
 
   font-family: 'Indie Flower', cursive;
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 7.5vw;
+  line-height: 7vw;
   text-align: center;
 }
